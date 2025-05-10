@@ -787,22 +787,6 @@
       "settings": {
         "include_padding": false
       }
-    },
-    "dynamic_search_7V6B8F": {
-      "type": "dynamic-search",
-      "name": "t:sections.search.presets.search.name",
-      "settings": {
-        "title": "Search",
-        "text": "<p>Use this section to help customers find the products they're looking for.</p>",
-        "placeholder": "What are you looking for?",
-        "filter_search_by": "disabled",
-        "enable_live_search": false,
-        "enable_live_search_images": false,
-        "show-overlay": false,
-        "color": "#ffffff",
-        "background": "#000000",
-        "opacity": 50
-      }
     }
   },
   "order": [
@@ -825,7 +809,6 @@
     "dynamic_featured_collection_ppMTgJ",
     "dynamic_testimonials",
     "dynamic_search",
-    "1746893031c8caac9d",
-    "dynamic_search_7V6B8F"
+    "1746893031c8caac9d"
   ]
 }
