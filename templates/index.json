@@ -776,6 +776,7 @@
       "blocks": {
         "trustoo_io_reviews_card_carousel_yD8KhM": {
           "type": "shopify://apps/trustoo-io-reviews/blocks/card-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "disabled": true,
           "settings": {}
         }
       },
@@ -783,7 +784,7 @@
         "trustoo_io_reviews_card_carousel_yD8KhM"
       ],
       "settings": {
-        "include_padding": true
+        "include_padding": false
       }
     }
   },
