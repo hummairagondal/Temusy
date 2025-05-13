@@ -267,14 +267,14 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "womens",
+            "collection": "dresses",
             "title": ""
           }
         },
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "dress-shoes",
+            "collection": "dresses",
             "title": ""
           }
         },
