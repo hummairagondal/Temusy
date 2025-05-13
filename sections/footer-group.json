@@ -33,7 +33,7 @@
         "menu_3": {
           "type": "menu",
           "settings": {
-            "menu": "main-menu"
+            "menu": "shop"
           }
         },
         "newsletter": {
