@@ -20,7 +20,6 @@
         },
         "menu": {
           "type": "menu",
-          "disabled": true,
           "settings": {
             "menu": "footer"
           }
