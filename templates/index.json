@@ -803,6 +803,22 @@
         "link": "",
         "button_text": ""
       }
+    },
+    "pxs_image_with_text_overlay_rFyHJx": {
+      "type": "pxs-image-with-text-overlay",
+      "name": "t:sections.image_with_text_overlay.presets.name",
+      "settings": {
+        "section_height": "medium",
+        "image": "shopify://shop_images/Simple_Modern_Photo_Collage_Autumn_Fashion_Sale_Banner.png",
+        "title": "Image with text overlay",
+        "text": "<p>Say a bit about your brand, a specific product, or promotion.</p>",
+        "content_position": "center-center",
+        "color": "#ffffff",
+        "overlay_background": "#000000",
+        "overlay_opacity": 50,
+        "link": "",
+        "button_text": "Button"
+      }
     }
   },
   "order": [
@@ -826,6 +842,7 @@
     "dynamic_testimonials",
     "dynamic_search",
     "1746893031c8caac9d",
-    "pxs_image_with_text_overlay_t7Ejhf"
+    "pxs_image_with_text_overlay_t7Ejhf",
+    "pxs_image_with_text_overlay_rFyHJx"
   ]
 }
