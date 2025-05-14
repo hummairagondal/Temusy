@@ -320,7 +320,7 @@
         "thumbnail_columns_desktop": 6,
         "thumbnail_columns_mobile": 3,
         "image-crop": "circle",
-        "cta_label": "View Al",
+        "cta_label": "View All",
         "cta_link": "shopify://collections",
         "cta_button_style": "primary"
       }
