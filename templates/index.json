@@ -793,6 +793,7 @@
       "name": "t:sections.image_with_text_overlay.presets.name",
       "settings": {
         "section_height": "medium",
+        "image": "shopify://shop_images/Yellow_White_Modern_Special_Discount_Banner.png",
         "title": "Image with text overlay",
         "text": "<p>Say a bit about your brand, a specific product, or promotion.</p>",
         "content_position": "center-center",
