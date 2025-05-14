@@ -794,14 +794,14 @@
       "settings": {
         "section_height": "original",
         "image": "shopify://shop_images/Yellow_White_Modern_Special_Discount_Banner.png",
-        "title": "Image with text overlay",
-        "text": "<p>Say a bit about your brand, a specific product, or promotion.</p>",
+        "title": "",
+        "text": "",
         "content_position": "center-center",
         "color": "#ffffff",
         "overlay_background": "#000000",
         "overlay_opacity": 0,
         "link": "",
-        "button_text": "Button"
+        "button_text": ""
       }
     }
   },
