@@ -605,9 +605,9 @@
         "highlight_rm3Jmt": {
           "type": "highlight",
           "settings": {
-            "icon": "icon-pin",
-            "title": "Locations",
-            "text": "<p>Visit Our Location.<br/><br/></p>",
+            "icon": "icon-discount",
+            "title": "Discount",
+            "text": "<p>Get Discount </p>",
             "link": ""
           }
         }
