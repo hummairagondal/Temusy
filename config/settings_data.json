@@ -171,16 +171,6 @@
         "type": "shopify://apps/yotpo-product-reviews/blocks/settings/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
         "disabled": false,
         "settings": {}
-      },
-      "6744518860797519131": {
-        "type": "shopify://apps/langwill-translate/blocks/floating-selector/35c05b0e-4f05-4fc9-adc7-77b6ccb6b2ca",
-        "disabled": true,
-        "settings": {}
-      },
-      "3807995532714858160": {
-        "type": "shopify://apps/trafficly-visitors-counter/blocks/trafficly/ff0a9f47-c478-468c-8fa1-f5a7bb122960",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
