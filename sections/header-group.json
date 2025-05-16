@@ -19,8 +19,8 @@
         "announcement_text": "Exceptional Quality, Thoughtfully Curated.",
         "announcement_text_mobile": "",
         "announcement_link": "shopify://collections/all",
-        "announcement_color": "#ffffff",
-        "announcement_background": "#046e82"
+        "announcement_color": "#1d1d1d",
+        "announcement_background": "#ffffff"
       }
     },
     "utility-bar": {
