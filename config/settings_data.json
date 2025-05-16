@@ -75,6 +75,8 @@
     "product_compare_display": "always",
     "product_grid_enable_quickshop": true,
     "product_grid_quick_shop_display": "desktop",
+    "social_facebook": "https://www.facebook.com/shopify",
+    "social_instagram": "https://instagram.com/shopify",
     "social_tumblr": "",
     "social_vimeo": "",
     "social_youtube": "",
