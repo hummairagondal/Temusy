@@ -471,6 +471,7 @@
           "type": "collection",
           "settings": {
             "collection": "headphones",
+            "image": "shopify://shop_images/woman-listening-to-music.jpg",
             "title": ""
           }
         },
@@ -478,6 +479,7 @@
           "type": "collection",
           "settings": {
             "collection": "makeup",
+            "image": "shopify://shop_images/pink-lip-gloss.jpg",
             "title": ""
           }
         },
