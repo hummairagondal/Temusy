@@ -503,6 +503,7 @@
           "type": "collection",
           "settings": {
             "collection": "footwear",
+            "image": "shopify://shop_images/loafers-leaning-along-white-wall.jpg",
             "title": ""
           }
         }
