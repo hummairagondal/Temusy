@@ -276,6 +276,7 @@
           "type": "collection",
           "settings": {
             "collection": "polos",
+            "image": "shopify://shop_images/man-reaches-inside-his-jacket.jpg",
             "title": "Men's Fashion"
           }
         },
