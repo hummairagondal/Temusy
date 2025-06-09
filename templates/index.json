@@ -284,6 +284,7 @@
           "type": "collection",
           "settings": {
             "collection": "teen-clothing",
+            "image": "shopify://shop_images/little-boy-ready-for-school-looking-up.jpg",
             "title": "Kids' Fashion"
           }
         },
