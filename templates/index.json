@@ -292,6 +292,7 @@
           "type": "collection",
           "settings": {
             "collection": "health-and-beauty",
+            "image": "shopify://shop_images/a-single-hand-holds-dropper-bottle.jpg",
             "title": ""
           }
         },
