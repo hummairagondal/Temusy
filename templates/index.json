@@ -487,6 +487,7 @@
           "type": "collection",
           "settings": {
             "collection": "sports-shoes",
+            "image": "shopify://shop_images/pair-of-all-black-sneakers.jpg",
             "title": ""
           }
         },
