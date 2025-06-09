@@ -300,6 +300,7 @@
           "type": "collection",
           "settings": {
             "collection": "accessories",
+            "image": "shopify://shop_images/laughter-in-the-sun.jpg",
             "title": ""
           }
         },
