@@ -308,6 +308,7 @@
           "type": "collection",
           "settings": {
             "collection": "toys-and-games",
+            "image": "shopify://shop_images/toy-drive-donation-box.jpg",
             "title": ""
           }
         }
