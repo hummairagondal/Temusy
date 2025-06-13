@@ -42,42 +42,6 @@
     },
     "header": {
       "type": "static-header",
-      "blocks": {
-        "mega_menu": {
-          "type": "meganav_images",
-          "disabled": true,
-          "settings": {
-            "meganav_trigger": "",
-            "text_1": "",
-            "link_1": "",
-            "position_1": "last",
-            "size_1": "medium",
-            "text_2": "",
-            "link_2": "",
-            "position_2": "last",
-            "size_2": "medium"
-          }
-        },
-        "mega_menu_2": {
-          "type": "meganav_images",
-          "disabled": true,
-          "settings": {
-            "meganav_trigger": "",
-            "text_1": "",
-            "link_1": "",
-            "position_1": "last",
-            "size_1": "medium",
-            "text_2": "",
-            "link_2": "",
-            "position_2": "last",
-            "size_2": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "mega_menu",
-        "mega_menu_2"
-      ],
       "settings": {
         "sticky_header": false,
         "full_width_header": false,
