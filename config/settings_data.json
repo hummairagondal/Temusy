@@ -152,23 +152,8 @@
           "greeting_message": ""
         }
       },
-      "36909921495456953": {
-        "type": "shopify://apps/ai-speed/blocks/ai-speed/f9e4b8d0-6523-47d0-b77a-783072cc6552",
-        "disabled": false,
-        "settings": {
-          "enable_optimization": true,
-          "debug_mode": false,
-          "excluded_scripts": "preview-bar.js,analytics.js,important-script.js",
-          "image_threshold": 30
-        }
-      },
       "7570552984445421165": {
         "type": "shopify://apps/yotpo-product-reviews/blocks/settings/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-        "disabled": false,
-        "settings": {}
-      },
-      "12657775114333427046": {
-        "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
       },
@@ -182,20 +167,35 @@
         "disabled": false,
         "settings": {}
       },
-      "10020979741964962114": {
-        "type": "shopify://apps/ez-ai-seo-optimizer/blocks/lsonld_embed/e7e17452-0bb0-4d97-9074-2c8ab3bc8079",
-        "disabled": false,
+      "7924418359578431505": {
+        "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
+        "disabled": true,
         "settings": {}
       },
       "10431957531522714341": {
         "type": "shopify://apps/seoant-page-speed/blocks/pagespeed-preloading/b6edaf80-ee08-4404-951c-d8f577b5c1b1",
+        "disabled": true,
+        "settings": {}
+      },
+      "10020979741964962114": {
+        "type": "shopify://apps/ez-ai-seo-optimizer/blocks/lsonld_embed/e7e17452-0bb0-4d97-9074-2c8ab3bc8079",
+        "disabled": true,
+        "settings": {}
+      },
+      "12657775114333427046": {
+        "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
       },
-      "7924418359578431505": {
-        "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
-        "disabled": false,
-        "settings": {}
+      "36909921495456953": {
+        "type": "shopify://apps/ai-speed/blocks/ai-speed/f9e4b8d0-6523-47d0-b77a-783072cc6552",
+        "disabled": true,
+        "settings": {
+          "enable_optimization": true,
+          "debug_mode": false,
+          "excluded_scripts": "preview-bar.js,analytics.js,important-script.js",
+          "image_threshold": 30
+        }
       }
     }
   },
