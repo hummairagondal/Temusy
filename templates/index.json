@@ -108,159 +108,6 @@
         "slideshow_text_below_image": false
       }
     },
-    "dynamic_promo_mosaic": {
-      "type": "dynamic-promo-mosaic",
-      "blocks": {
-        "promotion-1": {
-          "type": "promotion",
-          "settings": {
-            "image": "shopify://shop_images/stacked-bracelets.jpg",
-            "title": "Mosaic",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": false,
-            "background": "rgba(0,0,0,0)",
-            "opacity": 50
-          }
-        },
-        "promotion-2": {
-          "type": "promotion",
-          "settings": {
-            "image": "shopify://shop_images/legs-running-on-track.jpg",
-            "title": "Mosaic",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": true,
-            "background": "#000000",
-            "opacity": 5
-          }
-        },
-        "promotion-3": {
-          "type": "promotion",
-          "settings": {
-            "image": "shopify://shop_images/makeup-powder-foundation-brushes.jpg",
-            "title": "Mosaic",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": true,
-            "background": "#000000",
-            "opacity": 3
-          }
-        },
-        "promotion-4": {
-          "type": "promotion",
-          "settings": {
-            "image": "shopify://shop_images/hands-on-hips-girls-fashion.jpg",
-            "title": "Mosaic",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": false,
-            "background": "",
-            "opacity": 50
-          }
-        }
-      },
-      "block_order": [
-        "promotion-1",
-        "promotion-2",
-        "promotion-3",
-        "promotion-4"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "section_height": "small",
-        "text_alignment": "top-left",
-        "maintain_aspect_ratio": true,
-        "compress_blocks": false
-      }
-    },
-    "dynamic_promo_grid": {
-      "type": "dynamic-promo-grid",
-      "blocks": {
-        "promotion-1": {
-          "type": "promotion",
-          "settings": {
-            "title": "Grid",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": false,
-            "background": "",
-            "opacity": 50
-          }
-        },
-        "promotion-2": {
-          "type": "promotion",
-          "settings": {
-            "title": "Grid",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": false,
-            "background": "",
-            "opacity": 50
-          }
-        },
-        "promotion-3": {
-          "type": "promotion",
-          "settings": {
-            "title": "Grid",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": false,
-            "background": "",
-            "opacity": 50
-          }
-        },
-        "promotion-4": {
-          "type": "promotion",
-          "settings": {
-            "title": "Grid",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": false,
-            "background": "",
-            "opacity": 50
-          }
-        }
-      },
-      "block_order": [
-        "promotion-1",
-        "promotion-2",
-        "promotion-3",
-        "promotion-4"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Grid",
-        "section_height": "medium",
-        "section_columns": 4,
-        "text_alignment": "top-left"
-      }
-    },
     "dynamic_collection_list": {
       "type": "dynamic-collection-list",
       "blocks": {
@@ -379,52 +226,6 @@
         "product_count": 6,
         "cta_label": "",
         "cta_button_style": "secondary"
-      }
-    },
-    "dynamic_promo_grid-2": {
-      "type": "dynamic-promo-grid",
-      "blocks": {
-        "promotion-1": {
-          "type": "promotion",
-          "settings": {
-            "image": "shopify://shop_images/model-laughs-barefoot.jpg",
-            "title": "Grid",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "secondary",
-            "show_overlay": false,
-            "background": "rgba(0,0,0,0)",
-            "opacity": 50
-          }
-        },
-        "promotion-2": {
-          "type": "promotion",
-          "settings": {
-            "image": "shopify://shop_images/bearded-young-man.jpg",
-            "title": "Grid",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
-            "color": "#ffffff",
-            "block_link": "",
-            "button_text": "",
-            "button_style": "primary",
-            "show_overlay": false,
-            "background": "rgba(0,0,0,0)",
-            "opacity": 50
-          }
-        }
-      },
-      "block_order": [
-        "promotion-1",
-        "promotion-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "section_height": "small",
-        "section_columns": 2,
-        "text_alignment": "center-left"
       }
     },
     "dynamic_promo_grid-3": {
@@ -554,35 +355,6 @@
         "cta_button_style": "primary"
       }
     },
-    "dynamic_featured_collection_7Y38ag": {
-      "type": "dynamic-featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "layout": "grid",
-        "mobile_layout": "slideshow",
-        "collection": "perfumes",
-        "product_count": 6,
-        "cta_label": "",
-        "cta_button_style": "primary"
-      }
-    },
-    "pxs_image_with_text_overlay_GMymbw": {
-      "type": "pxs-image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "section_height": "large",
-        "image": "shopify://shop_images/files-and-hammers-flatlay.jpg",
-        "title": "Image with text overlay",
-        "text": "<p>Say a bit about your brand, a specific product, or promotion.</p>",
-        "content_position": "center-center",
-        "color": "#ffffff",
-        "overlay_background": "#000000",
-        "overlay_opacity": 0,
-        "link": "",
-        "button_text": "Button"
-      }
-    },
     "dynamic_highlights_banner_WqNKDx": {
       "type": "dynamic-highlights-banner",
       "blocks": {
@@ -666,7 +438,6 @@
       "block_order": [
         "slide_Vj9pMt"
       ],
-      "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
         "enable_autoplay": true,
         "autoplay_duration": 8,
@@ -690,7 +461,6 @@
     },
     "dynamic_featured_collection_ppMTgJ": {
       "type": "dynamic-featured-collection",
-      "name": "t:sections.featured_collection.presets.featured_collection.name",
       "settings": {
         "title": "Dress Pants",
         "layout": "slideshow",
@@ -767,22 +537,6 @@
         "text_size": "small"
       }
     },
-    "dynamic_search": {
-      "type": "dynamic-search",
-      "disabled": true,
-      "settings": {
-        "title": "Search",
-        "text": "<p>Use this section to help customers find the products they're looking for.</p>",
-        "placeholder": "What are you looking for?",
-        "filter_search_by": "disabled",
-        "enable_live_search": true,
-        "enable_live_search_images": false,
-        "show-overlay": false,
-        "color": "#ffffff",
-        "background": "#000000",
-        "opacity": 50
-      }
-    },
     "1746893031c8caac9d": {
       "type": "apps",
       "blocks": {
@@ -798,64 +552,22 @@
       "settings": {
         "include_padding": false
       }
-    },
-    "pxs_image_with_text_overlay_t7Ejhf": {
-      "type": "pxs-image-with-text-overlay",
-      "disabled": true,
-      "name": "t:sections.image_with_text_overlay.presets.name",
-      "settings": {
-        "section_height": "original",
-        "image": "shopify://shop_images/Yellow_White_Modern_Special_Discount_Banner_2.png",
-        "title": "",
-        "text": "",
-        "content_position": "center-center",
-        "color": "#ffffff",
-        "overlay_background": "#000000",
-        "overlay_opacity": 0,
-        "link": "",
-        "button_text": ""
-      }
-    },
-    "pxs_image_with_text_overlay_rFyHJx": {
-      "type": "pxs-image-with-text-overlay",
-      "disabled": true,
-      "name": "t:sections.image_with_text_overlay.presets.name",
-      "settings": {
-        "section_height": "original",
-        "image": "shopify://shop_images/Simple_Modern_Photo_Collage_Autumn_Fashion_Sale_Banner_1.png",
-        "title": "",
-        "text": "",
-        "content_position": "center-center",
-        "color": "#ffffff",
-        "overlay_background": "#000000",
-        "overlay_opacity": 0,
-        "link": "",
-        "button_text": ""
-      }
     }
   },
   "order": [
     "dynamic_slideshow",
-    "dynamic_promo_mosaic",
-    "dynamic_promo_grid",
     "dynamic_collection_list",
     "pxs_image_with_text_overlay_8fFPN3",
     "dynamic_featured_collection-2",
-    "dynamic_promo_grid-2",
     "dynamic_promo_grid-3",
     "dynamic_collection_list_VgVDyd",
     "pxs_image_with_text_overlay_AHYwbH",
     "dynamic_featured_collection_Tc6fXq",
-    "dynamic_featured_collection_7Y38ag",
-    "pxs_image_with_text_overlay_GMymbw",
     "dynamic_highlights_banner_WqNKDx",
     "dynamic_slideshow_HU6PyP",
     "dynamic_featured_collection",
     "dynamic_featured_collection_ppMTgJ",
     "dynamic_testimonials",
-    "dynamic_search",
-    "1746893031c8caac9d",
-    "pxs_image_with_text_overlay_t7Ejhf",
-    "pxs_image_with_text_overlay_rFyHJx"
+    "1746893031c8caac9d"
   ]
 }
